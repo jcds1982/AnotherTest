@@ -1,2 +1,2 @@
 PR Template
-- [] check whenever you are done! 
+- [ ] check whenever you are done! 
