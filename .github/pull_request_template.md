@@ -1,2 +1,4 @@
 PR Template
-- [ ] check whenever you are done! 
+This is just a test. I'm trying to have everthing ready.
+
+- [ ]  it's the code ready. 
